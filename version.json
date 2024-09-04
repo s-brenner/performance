@@ -1,0 +1,15 @@
+[
+  {
+    "version_major": 2024,
+    "version_minor": 1,
+    "date0": "30 Aug 24",
+    "date1": "30 Aug 24",
+    "date2": "30 Aug 24",
+    "date3": "30 Aug 24",
+    "host": "https://raw.githubusercontent.com/s-brenner/performance/main",
+    "path0": "aircraft_2024_1.json",
+    "path1": "non_normal_configuration_2024_1.json",
+    "path2": "non_normal_landing_data_2024_1.json",
+    "path3": "normal_landing_data_2024_1.json"
+  }
+]
