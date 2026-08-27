@@ -1,16 +1,16 @@
 [
   {
     "version_major": 2026,
-    "version_minor": 1,
+    "version_minor": 2,
     "date0": "14 Aug 26",
     "date1": "19 Sep 25",
     "date2": "19 Sep 25",
     "date3": "19 Sep 25",
     "host": "https://raw.githubusercontent.com/s-brenner/performance/main",
-    "path0": "aircraft_2026_1.json",
+    "path0": "aircraft_2026_2.json",
     "path1": "jackson_hole_landing_data_2025_1.json",
-    "path2": "non_normal_configuration_2026_1.json",
-    "path3": "non_normal_landing_data_2026_1.json",
-    "path4": "normal_landing_data_2026_1.json"
+    "path2": "non_normal_configuration_2026_2.json",
+    "path3": "non_normal_landing_data_2026_2.json",
+    "path4": "normal_landing_data_2026_2.json"
   }
 ]
